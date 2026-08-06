@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MusicGroup",
+      "@id": "https://alipiano.ir/#artist",
+      "name": "Ali Baghbani",
+      "member": {"@id": "https://alipiano.ir/#person"}
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://alipiano.ir/discography/#ali666ila-album",
+      "name": "Ali666ilA - Single",
+      "byArtist": {"@id": "https://alipiano.ir/#artist"}
+    }
+  ]
+}

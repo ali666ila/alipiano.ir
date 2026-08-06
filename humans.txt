@@ -1,0 +1,14 @@
+/* TEAM */
+Artist: Ali Baghbani (علی باغبانی) — Iranian pianist & composer, b.1986
+Site: https://alipiano.ir
+Wikidata: https://www.wikidata.org/wiki/Q140529622
+Contact: https://alipiano.ir/contact/
+
+/* BUILD */
+Entity Hub: GitHub Pages — Ali-Knowledge-Hub
+Single source: data/knowledge.json
+Graph: schema/graph.jsonld — one @graph, fixed @ids
+Last update: 2026-08-06
+
+/* THANKS */
+Inspired by Kalicube Entity Home process — One @graph → Knowledge Panel

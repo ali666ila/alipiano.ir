@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://alipiano.ir/#organization",
+  "name": "Ali Piano",
+  "url": "https://alipiano.ir/",
+  "logo": {"@id": "https://alipiano.ir/#logo"},
+  "founder": {"@id": "https://alipiano.ir/#person"}
+}

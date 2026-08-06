@@ -1,0 +1,200 @@
+{
+  "_comment": "SINGLE SOURCE OF TRUTH — Ali Baghbani Entity Hub — Edit ONLY here, then rebuild. For Google Knowledge Graph → Knowledge Panel",
+  "entityHome": "https://alipiano.ir/",
+  "artist": {
+    "name": "Ali Baghbani",
+    "alternateNames": [
+      "علی باغبانی",
+      "Ali 666 Ila"
+    ],
+    "givenName": "Ali",
+    "familyName": "Baghbani",
+    "birthDate": "1986",
+    "birthPlace": {
+      "name": "Iran",
+      "countryCode": "IR"
+    },
+    "nationality": "Iran",
+    "gender": "Male",
+    "occupations": [
+      "Pianist",
+      "Composer"
+    ],
+    "instrument": "Piano",
+    "genres": [
+      "Ambient",
+      "Contemporary Classical",
+      "Instrumental",
+      "Neoclassical"
+    ],
+    "knowsLanguage": [
+      "en",
+      "fa"
+    ],
+    "slogan": "One Hand, Infinite Emotions",
+    "brand": "Ali Piano",
+    "description": "Ali Baghbani (علی باغبانی) is an Iranian pianist and composer, born 1986 in Iran. Known as 'One Hand, Infinite Emotions' — a one-handed pianist creating ambient and contemporary instrumental piano music distributed worldwide on Spotify, Apple Music and all major platforms.",
+    "url": "https://alipiano.ir/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ali_jpeg.jpg",
+    "logo": "https://alipiano.ir/images/logo-512.png",
+    "wikidata": "https://www.wikidata.org/wiki/Q140529622",
+    "wikidataQID": "Q140529622",
+    "isni": null,
+    "musicBrainz": "1cf8f574-588e-42a2-8d20-c218479828b2",
+    "musicBrainzUrl": "https://musicbrainz.org/artist/1cf8f574-588e-42a2-8d20-c218479828b2",
+    "identifiers": {
+      "wikidata": "Q140529622",
+      "spotify": "3DYod604QbWaMTlV7MN6hN",
+      "apple": "1828748850",
+      "deezer": "328842561",
+      "tidal": "61615657",
+      "qobuz": "27231310",
+      "boomplay": "111674742",
+      "amazon": "B0FC2MW7WT",
+      "shazam": "1828748850",
+      "bandsintown": "15656269",
+      "musicBrainz": "1cf8f574-588e-42a2-8d20-c218479828b2"
+    },
+    "sameAsOrdered": [
+      "https://www.wikidata.org/wiki/Q140529622",
+      "https://musicbrainz.org/artist/1cf8f574-588e-42a2-8d20-c218479828b2",
+      "https://alipiano.ir/",
+      "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
+      "https://music.apple.com/us/artist/ali-baghbani/1828748850",
+      "https://www.youtube.com/@ali666ila",
+      "https://www.shazam.com/artist/ali-baghbani/1828748850",
+      "https://www.amazon.com/music/player/artists/B0FC2MW7WT/ali-baghbani",
+      "https://www.deezer.com/us/artist/328842561",
+      "https://tidal.com/artist/61615657",
+      "https://www.qobuz.com/us-en/interpreter/ali-baghbani/27231310",
+      "https://www.boomplay.com/artists/111674742",
+      "https://www.instagram.com/ali666ila",
+      "https://www.facebook.com/ali666ila",
+      "https://x.com/ali666ila",
+      "https://www.linkedin.com/in/alibaghbani/",
+      "https://www.bandsintown.com/a/15656269-ali-baghbani"
+    ],
+    "sameAsValid": [
+      "https://www.wikidata.org/wiki/Q140529622",
+      "https://musicbrainz.org/artist/1cf8f574-588e-42a2-8d20-c218479828b2",
+      "https://alipiano.ir/",
+      "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
+      "https://music.apple.com/us/artist/ali-baghbani/1828748850",
+      "https://www.shazam.com/artist/ali-baghbani/1828748850",
+      "https://www.amazon.com/music/player/artists/B0FC2MW7WT/ali-baghbani",
+      "https://www.deezer.com/us/artist/328842561",
+      "https://tidal.com/artist/61615657",
+      "https://www.qobuz.com/us-en/interpreter/ali-baghbani/27231310",
+      "https://www.boomplay.com/artists/111674742",
+      "https://www.instagram.com/ali666ila",
+      "https://www.facebook.com/ali666ila",
+      "https://x.com/ali666ila",
+      "https://www.linkedin.com/in/alibaghbani/",
+      "https://www.bandsintown.com/a/15656269-ali-baghbani"
+    ]
+  },
+  "organization": {
+    "name": "Ali Piano",
+    "url": "https://alipiano.ir/",
+    "logo": "https://alipiano.ir/images/logo-512.png",
+    "description": "Official brand of Iranian pianist & composer Ali Baghbani"
+  },
+  "pages": {
+    "home": "https://alipiano.ir/",
+    "about": "https://alipiano.ir/about/",
+    "biography": "https://alipiano.ir/biography/",
+    "discography": "https://alipiano.ir/discography/",
+    "press": "https://alipiano.ir/press/",
+    "contact": "https://alipiano.ir/contact/",
+    "gallery": "https://alipiano.ir/gallery/"
+  },
+  "discography": [
+    {
+      "title": "Ali666ilA",
+      "type": "Single",
+      "year": "2026",
+      "releaseDate": "2026-01-06",
+      "albumUrl": "https://music.apple.com/us/album/ali666ila-single/1871117006",
+      "spotifyUrl": "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
+      "cover": "https://alipiano.ir/images/cover-ali666ila.jpg"
+    },
+    {
+      "title": "Zero",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/zero-single/1867388573",
+      "spotifyUrl": "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN"
+    },
+    {
+      "title": "Shame",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/shame-single/1863780743"
+    },
+    {
+      "title": "Time",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/time-single/1852559702",
+      "tracks": [
+        "Heaven",
+        "Revenge",
+        "Time"
+      ]
+    },
+    {
+      "title": "CrossTalk",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/crosstalk-single/1837074038"
+    },
+    {
+      "title": "PARANOIA",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/paranoia-single/1836998295"
+    },
+    {
+      "title": "Eastern",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/eastern-single/1834628739"
+    },
+    {
+      "title": "Velvet",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/velvet-single/1830242322"
+    },
+    {
+      "title": "Moonless",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/moonless-single/1828913257"
+    },
+    {
+      "title": "Death of love",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/album/death-of-love-single/1828748849"
+    },
+    {
+      "title": "Deep Dream",
+      "type": "Single",
+      "year": "2025",
+      "albumUrl": "https://music.apple.com/us/artist/ali-baghbani/1828748850"
+    }
+  ],
+  "press": [],
+  "gaps": {
+    "critical": [
+      "YouTube channel not confirmed — verify https://www.youtube.com/@ali666ila and add P2397 to Wikidata",
+      "Press page empty — add 2 independent articles",
+      "Wikidata missing: Spotify P1902, TIDAL, YouTube"
+    ]
+  },
+  "meta": {
+    "lastUpdated": "2026-08-06",
+    "version": "2.0.0"
+  }
+}

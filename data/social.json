@@ -1,0 +1,40 @@
+{
+  "sameAsOrdered": [
+    "https://www.wikidata.org/wiki/Q140529622",
+    "https://musicbrainz.org/artist/1cf8f574-588e-42a2-8d20-c218479828b2",
+    "https://alipiano.ir/",
+    "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
+    "https://music.apple.com/us/artist/ali-baghbani/1828748850",
+    "https://www.youtube.com/@ali666ila",
+    "https://www.shazam.com/artist/ali-baghbani/1828748850",
+    "https://www.amazon.com/music/player/artists/B0FC2MW7WT/ali-baghbani",
+    "https://www.deezer.com/us/artist/328842561",
+    "https://tidal.com/artist/61615657",
+    "https://www.qobuz.com/us-en/interpreter/ali-baghbani/27231310",
+    "https://www.boomplay.com/artists/111674742",
+    "https://www.instagram.com/ali666ila",
+    "https://www.facebook.com/ali666ila",
+    "https://x.com/ali666ila",
+    "https://www.linkedin.com/in/alibaghbani/",
+    "https://www.bandsintown.com/a/15656269-ali-baghbani"
+  ],
+  "validForJSONLD": [
+    "https://www.wikidata.org/wiki/Q140529622",
+    "https://musicbrainz.org/artist/1cf8f574-588e-42a2-8d20-c218479828b2",
+    "https://alipiano.ir/",
+    "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
+    "https://music.apple.com/us/artist/ali-baghbani/1828748850",
+    "https://www.shazam.com/artist/ali-baghbani/1828748850",
+    "https://www.amazon.com/music/player/artists/B0FC2MW7WT/ali-baghbani",
+    "https://www.deezer.com/us/artist/328842561",
+    "https://tidal.com/artist/61615657",
+    "https://www.qobuz.com/us-en/interpreter/ali-baghbani/27231310",
+    "https://www.boomplay.com/artists/111674742",
+    "https://www.instagram.com/ali666ila",
+    "https://www.facebook.com/ali666ila",
+    "https://x.com/ali666ila",
+    "https://www.linkedin.com/in/alibaghbani/",
+    "https://www.bandsintown.com/a/15656269-ali-baghbani"
+  ],
+  "note": "Order = Knowledge Graph sources first, then socials — as per ChatGPT proposal. REPLACE_ME placeholders omitted from validForJSONLD to avoid 404."
+}

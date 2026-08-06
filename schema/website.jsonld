@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://alipiano.ir/#website",
+  "url": "https://alipiano.ir/",
+  "name": "Ali Baghbani — Official Website",
+  "publisher": {"@id": "https://alipiano.ir/#organization"},
+  "inLanguage": ["en", "fa"]
+}

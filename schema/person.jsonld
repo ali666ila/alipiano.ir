@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://alipiano.ir/#person",
+  "name": "Ali Baghbani",
+  "alternateName": ["علی باغبانی", "Ali 666 Ila"],
+  "birthDate": "1986",
+  "nationality": {"@type": "Country", "name": "Iran"},
+  "gender": "https://schema.org/Male",
+  "url": "https://alipiano.ir/",
+  "image": {"@id": "https://alipiano.ir/#image"},
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q140529622",
+    "https://alipiano.ir/",
+    "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
+    "https://music.apple.com/us/artist/ali-baghbani/1828748850"
+  ]
+}

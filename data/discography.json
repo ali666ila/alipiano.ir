@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Ali666ilA",
+    "type": "Single",
+    "year": "2026",
+    "releaseDate": "2026-01-06",
+    "urlApple": "https://music.apple.com/us/album/ali666ila-single/1871117006",
+    "urlSpotify": "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
+    "genre": "Ambient",
+    "isrc": null
+  },
+  {
+    "title": "Zero",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/zero-single/1867388573"
+  },
+  {
+    "title": "Shame",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/shame-single/1863780743"
+  },
+  {
+    "title": "Time",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/time-single/1852559702",
+    "tracks": ["Heaven", "Revenge", "Time"]
+  },
+  {
+    "title": "CrossTalk",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/crosstalk-single/1837074038"
+  },
+  {
+    "title": "PARANOIA",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/paranoia-single/1836998295"
+  },
+  {
+    "title": "Eastern",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/eastern-single/1834628739"
+  },
+  {
+    "title": "Velvet",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/velvet-single/1830242322"
+  },
+  {
+    "title": "Moonless",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/moonless-single/1828913257"
+  },
+  {
+    "title": "Death of love",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/album/death-of-love-single/1828748849"
+  },
+  {
+    "title": "Deep Dream",
+    "type": "Single",
+    "year": "2025",
+    "urlApple": "https://music.apple.com/us/artist/ali-baghbani/1828748850"
+  }
+]

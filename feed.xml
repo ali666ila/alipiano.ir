@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Baghbani — Discography</title>
+    <link>https://alipiano.ir/discography/</link>
+    <description>Latest releases by Ali Baghbani (علی باغبانی) — Iranian pianist & composer b.1986</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://alipiano.ir/feed.xml" rel="self" type="application/rss+xml"/>
+    <item><title>Ali666ilA - Single</title><link>https://music.apple.com/us/album/ali666ila-single/1871117006</link><guid>https://alipiano.ir/discography/#ali666ila</guid><pubDate>Mon, 06 Jan 2026 00:00:00 GMT</pubDate><description>Ali666ilA — Single · 2026 — Ambient piano</description></item>
+    <item><title>Zero - Single</title><link>https://music.apple.com/us/album/zero-single/1867388573</link><guid>https://alipiano.ir/discography/#zero</guid><pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate></item>
+    <item><title>PARANOIA - Single</title><link>https://music.apple.com/us/album/paranoia-single/1836998295</link><guid>https://alipiano.ir/discography/#paranoia</guid><pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate></item>
+  </channel>
+</rss>
