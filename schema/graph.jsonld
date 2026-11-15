@@ -53,7 +53,7 @@
       },
       "inLanguage": "en",
       "datePublished": "2026-08-06",
-      "dateModified": "2026-08-06",
+      "dateModified": "2026-11-15",
       "author": {
         "@id": "https://alipiano.ir/#person"
       },
@@ -117,6 +117,7 @@
         "https://alipiano.ir/",
         "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
         "https://music.apple.com/us/artist/ali-baghbani/1828748850",
+        "https://music.youtube.com/channel/UCrsXoKFpkbufEVUo7MrMPdg",
         "https://www.shazam.com/artist/ali-baghbani/1828748850",
         "https://www.amazon.com/music/player/artists/B0FC2MW7WT/ali-baghbani",
         "https://www.deezer.com/us/artist/328842561",
@@ -159,6 +160,12 @@
           "propertyID": "Boomplay",
           "value": "111674742",
           "url": "https://www.boomplay.com/artists/111674742"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "YouTubeMusic",
+          "value": "UCrsXoKFpkbufEVUo7MrMPdg",
+          "url": "https://music.youtube.com/channel/UCrsXoKFpkbufEVUo7MrMPdg"
         },
         {
           "@type": "PropertyValue",
@@ -232,6 +239,7 @@
         "https://alipiano.ir/",
         "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
         "https://music.apple.com/us/artist/ali-baghbani/1828748850",
+        "https://music.youtube.com/channel/UCrsXoKFpkbufEVUo7MrMPdg",
         "https://www.shazam.com/artist/ali-baghbani/1828748850",
         "https://www.amazon.com/music/player/artists/B0FC2MW7WT/ali-baghbani",
         "https://www.deezer.com/us/artist/328842561",
@@ -262,6 +270,12 @@
           "propertyID": "AppleMusic",
           "value": "1828748850",
           "url": "https://music.apple.com/us/artist/ali-baghbani/1828748850"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "YouTubeMusic",
+          "value": "UCrsXoKFpkbufEVUo7MrMPdg",
+          "url": "https://music.youtube.com/channel/UCrsXoKFpkbufEVUo7MrMPdg"
         },
         {
           "@type": "PropertyValue",
