@@ -46,6 +46,7 @@
       "wikidata": "Q140529622",
       "spotify": "3DYod604QbWaMTlV7MN6hN",
       "apple": "1828748850",
+      "youtubeMusic": "UCrsXoKFpkbufEVUo7MrMPdg",
       "deezer": "328842561",
       "tidal": "61615657",
       "qobuz": "27231310",
@@ -59,8 +60,9 @@
       "https://www.wikidata.org/wiki/Q140529622",
       "https://musicbrainz.org/artist/1cf8f574-588e-42a2-8d20-c218479828b2",
       "https://alipiano.ir/",
-      "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
+      "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",    
       "https://music.apple.com/us/artist/ali-baghbani/1828748850",
+  "https://music.youtube.com/channel/UCrsXoKFpkbufEVUo7MrMPdg",
       "https://www.youtube.com/@ali666ila",
       "https://www.shazam.com/artist/ali-baghbani/1828748850",
       "https://www.amazon.com/music/player/artists/B0FC2MW7WT/ali-baghbani",
@@ -80,6 +82,7 @@
       "https://alipiano.ir/",
       "https://open.spotify.com/artist/3DYod604QbWaMTlV7MN6hN",
       "https://music.apple.com/us/artist/ali-baghbani/1828748850",
+  "https://music.youtube.com/channel/UCrsXoKFpkbufEVUo7MrMPdg",
       "https://www.shazam.com/artist/ali-baghbani/1828748850",
       "https://www.amazon.com/music/player/artists/B0FC2MW7WT/ali-baghbani",
       "https://www.deezer.com/us/artist/328842561",
@@ -194,7 +197,7 @@
     ]
   },
   "meta": {
-    "lastUpdated": "2026-08-06",
+    "lastUpdated": "2026-11-15",
     "version": "2.0.0"
   }
 }
